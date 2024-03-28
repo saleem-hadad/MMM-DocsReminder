@@ -1,7 +1,7 @@
 # MMM-DocsReminder
 A simple visual reminder about the documents that are going to expire soon. [MagicMirror](https://magicmirror.builders/).
 
-![Screenshot](https://github.com/amitchone/MMM-DocsReminder/blob/main/example.png "Screenshot")
+![Screenshot](https://github.com/saleem-hadad/MMM-DocsReminder/blob/main/example.png "Screenshot")
 
 ## Installation
 
