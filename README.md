@@ -14,7 +14,7 @@ git clone https://github.com/saleem-hadad/MMM-DocsReminder.git
 ## Configuration & Usage
 This module is intended to be extremely simple, register the module config as follow:
 
-```json
+```js
     {
         module: "MMM-DocsReminder",
         position: "top_left",
